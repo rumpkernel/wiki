@@ -1,1 +1,1 @@
-[wiki for rump kernels](https://github.com/rumpkernel/wiki/wiki)
+[wiki for rump kernels](http://wiki.rumpkernel.org/)
