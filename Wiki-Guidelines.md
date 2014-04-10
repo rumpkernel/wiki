@@ -35,12 +35,13 @@ Linking
 -------
 
 Use the format \[\[text|article title\]\] to link to other articles on this wiki,
-e.g. to link to this page you would use `[[guidelines|Wiki Guidelines]]`.
+e.g. to link to the platform page you could use
+`[[Platforms supported by rump kernels|Platforms]]`.
 The advantage of this format is that dead links will be flagged when
 the page is rendered.
 
 To link to this wiki from an external source, use the URL `http://wiki.rumpkernel.org/article-name`,
-e.g. http://wiki.rumpkernel.org/Wiki-Guidelines for this page.
+e.g. http://wiki.rumpkernel.org/Platforms for the platforms page.
 To link to a rump kernel repository (currently hosted on Github), use `http://repo.rumpkernel.org/reponame`, e.g. http://repo.rumpkernel.org/buildrump.sh for buildrump.sh.  Avoid linking to
 non-rumpkernel.org URLs.
 
