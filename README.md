@@ -1,5 +1,5 @@
-[Wiki](http://wiki.rumpkernel.org) Guidelines
-=============================================
+Wiki Guidelines
+===============
 
 This page lists high-level guidelines for editing http://wiki.rumpkernel.org/.
 
