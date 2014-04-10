@@ -1,15 +1,14 @@
 Wiki Guidelines
 ===============
 
-This page lists high-level guidelines for editing the wiki.
+This page lists high-level guidelines for editing http://wiki.rumpkernel.org/.
 
 
 Titles
 ------
 
 Use a page title of the form "Category: Subject".  The categories are
-used for creating the navbar on the wiki (see the righthand-side of
-every page).
+used for creating the navbar on the wiki.
 
 The current categories are:
 
