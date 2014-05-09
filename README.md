@@ -13,10 +13,11 @@ used for creating the navbar on the wiki.
 The current categories are:
 
 * _[Builds](http://wiki.rumpkernel.org/Builds)_: automated builds, tests, etc.
-* _[Howto](http://wiki.rumpkernel.org/Howto)_: Tutorials, howtos, guides, etc.
+* _[Howto](http://wiki.rumpkernel.org/Howto)_: Howtos document specific tasks
 * _[Info](http://wiki.rumpkernel.org/Info)_: General information, e.g. historical info, TODO-lists, etc.
 * _[Performance](http://wiki.rumpkernel.org/Performance)_: important points about optimization, tuning, etc.
 * _[Project ideas](http://wiki.rumpkernel.org/Project-Ideas)_: detailed description of a project looking for idle hands.
+* _[Tutorials](http://wiki.rumpkernel.org/Tutorials)_: Instructions starting from zero and working towards mastering a subject area (e.g. debugging or networking)
 
 If the article does not fit into the existing categories, please propose
 a new category on the rumpkernel-users@lists.sourceforge.net mailing list.
