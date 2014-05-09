@@ -17,7 +17,7 @@ The current categories are:
 * _[Info](http://wiki.rumpkernel.org/Info)_: General information, e.g. historical info, TODO-lists, etc.
 * _[Performance](http://wiki.rumpkernel.org/Performance)_: important points about optimization, tuning, etc.
 * _[Project ideas](http://wiki.rumpkernel.org/Project-Ideas)_: detailed description of a project looking for idle hands.
-* _[Tutorials](http://wiki.rumpkernel.org/Tutorials)_: Instructions starting from zero and working towards mastering a subject area (e.g. debugging or networking)
+* _[Tutorial](http://wiki.rumpkernel.org/Tutorial)_: Instructions starting from zero and working towards mastering a subject area (e.g. debugging or networking)
 
 If the article does not fit into the existing categories, please propose
 a new category on the rumpkernel-users@lists.sourceforge.net mailing list.
