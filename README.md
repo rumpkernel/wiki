@@ -50,5 +50,7 @@ non-rumpkernel.org URLs.
 License
 -------
 
-Articles in this wiki are available under
+Articles in the wiki are available under
 [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+(Note: CC0 applies only to the wiki, not to the files hosted in this repository)
