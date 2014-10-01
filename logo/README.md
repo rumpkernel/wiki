@@ -1,7 +1,7 @@
 Logo and usage guidelines
 =========================
 
-See LICENSE.
+See [LICENSE](http://logo.rumpkernel.org/LICENSE).
 
 You are requested to link the logo to rumpkernel.org where feasible.
 Use the svg format logo where possible.
