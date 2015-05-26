@@ -16,6 +16,7 @@ The current categories are:
 * _[Howto](http://wiki.rumpkernel.org/Howto)_: Howtos document specific tasks
 * _[Info](http://wiki.rumpkernel.org/Info)_: General information, e.g. historical info, TODO-lists, etc.
 * _[Performance](http://wiki.rumpkernel.org/Performance)_: important points about optimization, tuning, etc.
+* _[People](http://wiki.rumpkernel.org/People)_: personal spaces for rump kernel project contributors.  Edit only your own page.
 * _[Project ideas](http://wiki.rumpkernel.org/Project-Ideas)_: detailed description of a project looking for idle hands.
 * _[Tutorial](http://wiki.rumpkernel.org/Tutorial)_: Instructions starting from zero and working towards mastering a subject area (e.g. debugging or networking)
 
