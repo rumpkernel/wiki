@@ -21,7 +21,7 @@ The current categories are:
 * _[Tutorial](http://wiki.rumpkernel.org/Tutorial)_: Instructions starting from zero and working towards mastering a subject area (e.g. debugging or networking)
 
 If the article does not fit into the existing categories, please propose
-a new category on the rumpkernel-users@lists.sourceforge.net mailing list.
+a new category on the rumpkernel-users@freelists.org mailing list.
 
 Additionally, the following categories exist, but they should be used
 only if the respective code exists and is available:
